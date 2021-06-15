@@ -1,0 +1,19 @@
+{
+    "userlist": [{
+        "username": "admin",
+        "password": "admin",
+        "state": 0,
+        "age": 18
+    }, {
+        "username": "jack",
+        "password": "jack",
+        "state": 1,
+        "age": 20
+    }, {
+        "username": "mary",
+        "password": "mary",
+        "state": 0,
+        "age": 16,
+        "jobs": [0, 3]
+    }]
+}
